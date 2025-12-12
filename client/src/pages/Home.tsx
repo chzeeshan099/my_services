@@ -10,7 +10,7 @@ export default function Home() {
         <div className="max-w-6xl mx-auto text-center">
           <div className="flex justify-center mb-8">
             <img
-              src="https://via.placeholder.com/128x128/3b82f6/ffffff?text=Logo"
+                src="/react.svg"
               alt="Company Logo"
               className="w-24 h-24 md:w-32 md:h-32 rounded-full object-cover shadow-lg animate-in zoom-in-50 duration-500"
               data-testid="img-hero-logo"

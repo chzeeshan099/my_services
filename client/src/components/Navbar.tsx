@@ -19,7 +19,7 @@ export default function Navbar() {
         <div className="flex items-center justify-between h-16 md:h-20">
           <Link href="/" className="flex items-center gap-3" data-testid="link-home-logo">
             <img
-              src="https://via.placeholder.com/40x40/3b82f6/ffffff?text=L"
+               src="/react.svg"
               alt="Company Logo"
               className="w-10 h-10 rounded-full object-cover"
               data-testid="img-logo"

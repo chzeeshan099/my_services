@@ -8,7 +8,7 @@ export default function Footer() {
           <div>
             <div className="flex items-center gap-3 mb-4">
               <img
-                src="https://via.placeholder.com/32x32/3b82f6/ffffff?text=L"
+                src="/react.svg"
                 alt="Company Logo"
                 className="w-8 h-8 rounded-full object-cover"
               />
